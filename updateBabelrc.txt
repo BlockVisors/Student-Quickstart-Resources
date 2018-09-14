@@ -1,0 +1,13 @@
+Notes with boxes
+
+
+React auth- need to check contracts
+
+
+npm install -g generate
+
+npm install -g generate
+
+
+npm install -g generate-babelrc
+gen babelrc
